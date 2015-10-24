@@ -1,0 +1,16 @@
+﻿
+.reporttable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .reporttable tr th, .reporttable tr td {
+        padding: 2px 3px 2px 3px;
+        border: 1px solid #000;
+    }
+
+.reporttable tr th {
+    background-color: #DDD;
+}
+body {
+}

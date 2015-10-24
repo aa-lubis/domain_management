@@ -1,0 +1,216 @@
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.Core.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\EntityFramework.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\EntityFramework.SqlServer.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\itextsharp.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\itextsharp.xmlworker.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.Unity.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Web.Infrastructure.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\MySql.Data.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\MySql.Data.Entity.EF6.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\MySql.Web.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\PagedList.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\PagedList.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Quartz.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Helpers.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Providers.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.Deployment.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Unity.Mvc3.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.Core.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Common.Logging.Core.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\EntityFramework.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\EntityFramework.SqlServer.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\itextsharp.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.Unity.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\PagedList.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\PagedList.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Quartz.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\Quartz.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Helpers.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.Deployment.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\bin\System.Web.WebPages.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.Resources.resources
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.vbproj.GenerateResource.Cache
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management\domain_management\obj\Debug\domain_management.vbprojResolveAssemblyReference.cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.Core.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\EntityFramework.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\EntityFramework.SqlServer.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\itextsharp.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\itextsharp.xmlworker.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.Unity.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Web.Infrastructure.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\MySql.Data.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\MySql.Data.Entity.EF6.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\MySql.Web.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\PagedList.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\PagedList.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Quartz.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Helpers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Providers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.Deployment.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Unity.Mvc3.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.Core.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Common.Logging.Core.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\EntityFramework.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\EntityFramework.SqlServer.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\itextsharp.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.Unity.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\PagedList.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\PagedList.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Quartz.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\Quartz.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Helpers.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.Deployment.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\bin\System.Web.WebPages.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.Resources.resources
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.vbproj.GenerateResource.Cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2\domain_management\obj\Debug\domain_management.vbprojResolveAssemblyReference.cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.Core.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\EntityFramework.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\EntityFramework.SqlServer.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\itextsharp.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\itextsharp.xmlworker.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.Unity.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Web.Infrastructure.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\MySql.Data.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\MySql.Data.Entity.EF6.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\MySql.Web.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\PagedList.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\PagedList.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Quartz.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Helpers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Providers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.Deployment.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Unity.Mvc3.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.Core.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Common.Logging.Core.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\EntityFramework.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\EntityFramework.SqlServer.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\itextsharp.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.Unity.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\PagedList.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\PagedList.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Quartz.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\Quartz.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Helpers.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.Deployment.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\bin\System.Web.WebPages.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.vbprojResolveAssemblyReference.cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.Resources.resources
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.vbproj.GenerateResource.Cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2 - Copy\domain_management\obj\Debug\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\domain_management.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.Core.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\EntityFramework.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\EntityFramework.SqlServer.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\itextsharp.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\itextsharp.xmlworker.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.Unity.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Web.Infrastructure.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\MySql.Data.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\MySql.Data.Entity.EF6.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\MySql.Web.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\PagedList.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\PagedList.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Quartz.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Helpers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Mvc.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Providers.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.Deployment.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.Razor.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Unity.Mvc3.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.Core.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Common.Logging.Core.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\EntityFramework.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\EntityFramework.SqlServer.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\itextsharp.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.Unity.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\PagedList.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\PagedList.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Quartz.pdb
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\Quartz.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Helpers.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Mvc.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.Deployment.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\bin\System.Web.WebPages.Razor.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.vbprojResolveAssemblyReference.cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.Resources.resources
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.vbproj.GenerateResource.Cache
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.dll
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.xml
+D:\Project-Workshop\domain_management_new\domain_management v1.2.1\domain_management\obj\Debug\domain_management.pdb

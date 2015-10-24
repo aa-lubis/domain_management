@@ -1,0 +1,35 @@
+﻿
+
+table#address {
+    border: 1px solid black;
+}
+
+    table#address tr td {
+        border: 1px solid black;
+        vertical-align: top;
+        padding: 5px 10px 10px 10px;
+    }
+
+table#tblSummary {
+    border: 1px solid black;
+}
+
+    table#tblSummary tr td, table#tblSummary tr th {
+        border: 1px solid black;
+        padding: 3px 5px 3px 5px;
+    }
+
+    table#tblSummary tr th {
+        background-color: #DDD;
+        font-weight: bold;
+    }
+
+#companylogo {
+    background-image: url('../img/logo-plain.png');
+}
+
+@media print {
+    #links {
+        display: none;
+    }
+}
